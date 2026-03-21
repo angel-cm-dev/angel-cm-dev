@@ -1,59 +1,61 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIz/h4Z6+/giphy.gif" width="30px"> Ángel Castañeda | Software Architect & Project Manager
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> Ángel Castañeda
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Innovation%20Through%20Code&fontSize=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=200&section=header&text=Software%20Architect%20%26%20PMO&fontSize=50&animation=fadeIn&fontAlignY=35" />
 </p>
 
-## 👨‍💻 Sobre mí
-[cite_start]Ingeniero de Sistemas y **Project Manager (PMO)** enfocado en la **innovación disruptiva** y la transformación digital basada en datos (Data-Driven)[cite: 5, 11]. [cite_start]Especialista en orquestar el ciclo de vida completo de proyectos tecnológicos complejos, combinando precisión técnica con visión estratégica[cite: 6].
+## 👤 Perfil Profesional
+Ingeniero de Sistemas y **Project Manager (PMO)** enfocado en la **innovación disruptiva** y transformación digital basada en datos. Especialista en orquestar el ciclo de vida completo de proyectos tecnológicos complejos, combinando precisión técnica con visión estratégica orientada a resultados.
 
 ---
 
-## 🛠️ Ecosistema Tecnológico (Bootstrap-Style Grid)
-
-| **Frontend & UI/UX** | **Backend & Architecture** | **IA & Automation** |
+## 🛠️ Ecosistema Tecnológico
+| **Frontend** | **Backend** | **IA & Automation** |
 | :--- | :--- | :--- |
-| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square) | ![n8n](https://img.shields.io/badge/-n8n-FF6C37?logo=n8n&logoColor=white&style=flat-square) |
-| ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | ![PowerAutomate](https://img.shields.io/badge/-Power%20Automate-0066FF?logo=microsoft-power-automate&logoColor=white&style=flat-square) |
-| ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square) | ![AI](https://img.shields.io/badge/-HelpDesk%20IA-robot?style=flat-square&color=blueviolet) |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
 ---
 
 ## 🚀 Experiencia Estratégica
-> [cite_start]**Jefe de Operaciones de TI / Project Manager** | Grupo Compina S.A.C.[cite: 10, 11]
-
-* **Arquitectura CRM V2:** [cite_start]Lideré el desarrollo end-to-end de sistemas escalables y optimización de rutas logísticas[cite: 12].
-* **Liderazgo Ágil:** [cite_start]Gestión de equipos técnicos bajo metodologías ágiles, estableciendo procesos de Code Review y QA[cite: 13].
-* **Ciberseguridad:** [cite_start]Diseño e implementación de protocolos de mitigación de incidentes y auditorías de seguridad perimetral[cite: 14, 15].
-* **Automatización IA:** [cite_start]Despliegue de flujos de trabajo con n8n y Power Automate para optimizar la eficiencia operativa.
-
----
-
-## 🎓 Formación & Certificaciones High-Level
-
-* 🎓 **MBA (Candidato):** [cite_start]Administración de Negocios - Universidad César Vallejo (2026)[cite: 31].
-* 🏆 **Python Expert:** [cite_start]PCAP: Programming Essentials in Python (1 y 2)[cite: 29, 45].
-* 🛡️ **NetDef Expert:** [cite_start]Network Defense & Endpoint Security (Cisco Academy)[cite: 40].
-* 📊 **BI Foundation:** [cite_start]Business Intelligence Foundation Professional (BIFPCM)[cite: 36].
+### **Jefe de Operaciones de TI / Project Manager** | *Grupo Compina S.A.C.*
+* [cite_start]**Arquitectura CRM V2:** Lideré el desarrollo integral de sistemas escalables y optimización de rutas logísticas. [cite: 12]
+* [cite_start]**Liderazgo Ágil:** Gestión de equipos multidisciplinarios bajo metodologías ágiles y estándares estrictos de QA. [cite: 13]
+* [cite_start]**Ciberseguridad:** Diseño de protocolos de mitigación de incidentes y auditorías de seguridad perimetral. [cite: 14, 15]
+* [cite_start]**Automatización IA:** Implementación de flujos de trabajo en n8n y Power Automate para optimización operativa. [cite: 16]
 
 ---
 
-## 📊 Performance & Insights
+## 🎓 Formación & Certificaciones
+* [cite_start]🎓 **MBA (Candidato)** - Universidad César Vallejo (2026-2027) [cite: 31]
+* [cite_start]🏆 **Python Expert** - PCAP: Programming Essentials in Python [cite: 45]
+* [cite_start]🛡️ **NetDef Expert** - Network Defense & Endpoint Security (Cisco Academy) [cite: 40]
+* [cite_start]📊 **BI Foundation** - Business Intelligence Foundation Professional [cite: 36]
+
+---
+
+## 📊 Insights de Ingeniería
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angel-cm-dev&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel-cm-dev&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=angel-cm-dev&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel-cm-dev&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 📫 Conecta conmigo
 <p align="left">
-<a href="https://linkedin.com/in/angelcastaneda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelcastaneda" height="30" width="40" /></a>
-<a href="mailto:angel.pandatech@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="angel.pandatech" height="30" width="40" /></a>
-<a href="https://angelcm.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="portfolio" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/angelcastaneda" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:angel.jair.compina@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://angelcm.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
+  </a>
 </p>
 
----
 <p align="center">
-<i>[cite_start]"La precisión técnica combinada con la visión estratégica es lo que define el futuro digital."[cite: 6, 12]</i>
+  <i>"La precisión técnica combinada con la visión estratégica define el futuro digital."</i>
 </p>
