@@ -1,8 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> Hola, soy Ángel Castañeda
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=180&section=header&text=Software%20Architect%20%26%20PMO&fontSize=45&animation=fadeIn&fontAlignY=35" alt="Banner" />
-</p>
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> Hola, soy Angel Castañeda
 
 ## 👤 Perfil Profesional
 Ingeniero de Sistemas y Project Manager enfocado en la innovación disruptiva y la transformación digital basada en datos. Me especializo en orquestar el ciclo de vida completo de proyectos tecnológicos complejos, combinando precisión técnica con visión estratégica orientada a resultados.
