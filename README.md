@@ -1,5 +1,11 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> Hola, soy Angel Castañeda
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Project+Manager+%26+Ingeniero+de+Sistemas;AI+%26+Automation+%7C+Cybersecurity;Full+Stack+Developer+%7C+Cloud" alt="Typing SVG" />
+  </a>
+</p>
+
 ## 👤 Perfil Profesional
 Ingeniero de Sistemas y Project Manager enfocado en la innovación disruptiva y la transformación digital basada en datos. Me especializo en orquestar el ciclo de vida completo de proyectos tecnológicos complejos, combinando precisión técnica con visión estratégica orientada a resultados.
 
@@ -12,7 +18,7 @@ Ingeniero de Sistemas y Project Manager enfocado en la innovación disruptiva y 
     <tr>
       <th align="center">Frontend & UI</th>
       <th align="center">Backend & Data</th>
-      <th align="center">IA, DevOps & Infraestructura</th>
+      <th align="center">IA, DevOps & Cloud</th>
     </tr>
     <tr>
       <td align="center">
@@ -44,20 +50,32 @@ Ingeniero de Sistemas y Project Manager enfocado en la innovación disruptiva y 
 
 ## 🚀 Experiencia Estratégica
 
-**Jefe de Operaciones de TI / Project Manager** | *Sector Corporativo*
+**Jefe de Operaciones de TI / Project Manager** | *Compina | Comunicación y Sinergia Comercial*
 * **Arquitectura de Sistemas:** Liderazgo en el desarrollo integral de un CRM avanzado y sistemas de optimización logística.
 * **Gestión Ágil:** Coordinación de equipos técnicos aplicando metodologías ágiles y procesos de calidad (QA).
-* **Seguridad de la Información:** Implementación de protocolos contra incidentes y auditorías de seguridad perimetral.
 * **Inteligencia Artificial:** Despliegue de automatizaciones operativas utilizando herramientas como n8n y Power Automate.
+
+**Auxiliar de TI** | *Compina | Comunicación y Sinergia Comercial*
+* **Soporte de Infraestructura:** Asistencia en la resolución de problemas tecnológicos, hardware y software garantizando la continuidad del negocio.
 
 <br/>
 
-## 🎓 Formación & Certificaciones
+## 🎓 Educación & Certificaciones Oficiales
 
-* 🎓 **MBA (Candidato)** - Universidad César Vallejo
-* 🏆 **Python Expert** - PCAP: Programming Essentials in Python
-* 🛡️ **NetDef Expert** - Network Defense & Endpoint Security
-* 📊 **BI Foundation** - Business Intelligence Foundation Professional
+### 🏛️ Educación Superior (Universidad César Vallejo)
+* 🎓 **MBA - Maestría en Administración de Negocios** (2026 - 2027)
+* 🎓 **Título Profesional:** Ingeniero de Sistemas
+* 🎓 **Grado Académico:** Bachiller en Ingeniería de Sistemas
+
+### 🤖 Datos e Inteligencia Artificial
+* 🧠 **Desarrollo con IA:** Certificado de iniciación al desarrollo con IA (BIG School)
+* 📊 **Business Intelligence:** BIFPC™ - Foundation Professional Certification (CertiProf)
+
+### 🌐 Desarrollo de Software & Tecnologías (Cisco Networking Academy)
+* 🐍 **Python:** Python Essentials 1 & Python Essentials 2
+* 💻 **Desarrollo Web:** JavaScript Essentials 1, HTML Essentials, CSS Essentials
+* ⚙️ **Software:** C++ Essentials 1
+* 🏆 **Reconocimientos:** Networking Academy Learn-A-Thon 2023
 
 <br/>
 
@@ -73,10 +91,10 @@ Ingeniero de Sistemas y Project Manager enfocado en la innovación disruptiva y 
 ## 📫 Contáctame
 
 <p align="center">
-  <a href="https://linkedin.com/in/angelcastaneda" target="_blank">
+  <a href="https://www.linkedin.com/in/angel-cm" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:angel.jair.compina@gmail.com" target="_blank">
+  <a href="mailto:info@angelcm.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://angelcm.com" target="_blank">
