@@ -16,26 +16,29 @@ Ingeniero de Sistemas y **Magíster en Ingeniería de Sistemas**, actualmente cu
 
 * 🌍 Basado en Lima, Perú.
 * 🚀 Enfocado en: **Escalabilidad**, **Performance** y **Automatización de Procesos**.
-* 📚 Aprendizaje continuo: Optimización de algoritmos de *Dynamic Pricing* e Inteligencia Artificial aplicada a negocios.
+* 📚 Investigación: Optimización de algoritmos de *Dynamic Pricing* e IA aplicada a modelos de negocio.
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
 ### 🎨 Frontend & UI
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass"/>
-</p>
+| | | | |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=html" width="45"/> <br> **HTML5** | <img src="https://skillicons.dev/icons?i=css" width="45"/> <br> **CSS3** | <img src="https://skillicons.dev/icons?i=js" width="45"/> <br> **JavaScript** | <img src="https://skillicons.dev/icons?i=ts" width="45"/> <br> **TypeScript** |
+| <img src="https://skillicons.dev/icons?i=react" width="45"/> <br> **React** | <img src="https://skillicons.dev/icons?i=nextjs" width="45"/> <br> **Next.js** | <img src="https://skillicons.dev/icons?i=tailwindcss" width="45"/> <br> **Tailwind** | <img src="https://skillicons.dev/icons?i=sass" width="45"/> <br> **SASS** |
 
 ### ⚙️ Backend & Logic
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,dotnet,cs,java"/>
-</p>
+| | | | |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=php" width="45"/> <br> **PHP** | <img src="https://skillicons.dev/icons?i=laravel" width="45"/> <br> **Laravel** | <img src="https://skillicons.dev/icons?i=nodejs" width="45"/> <br> **Node.js** | <img src="https://skillicons.dev/icons?i=python" width="45"/> <br> **Python** |
+| <img src="https://skillicons.dev/icons?i=dotnet" width="45"/> <br> **.NET** | <img src="https://skillicons.dev/icons?i=cs" width="45"/> <br> **C#** | <img src="https://skillicons.dev/icons?i=java" width="45"/> <br> **Java** | |
 
 ### ☁️ Infraestructura & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,linux,docker,aws,azure,git,github,githubactions"/>
-</p>
+| | | | |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=mysql" width="45"/> <br> **MySQL** | <img src="https://skillicons.dev/icons?i=linux" width="45"/> <br> **Linux** | <img src="https://skillicons.dev/icons?i=docker" width="45"/> <br> **Docker** | <img src="https://skillicons.dev/icons?i=aws" width="45"/> <br> **AWS** |
+| <img src="https://skillicons.dev/icons?i=azure" width="45"/> <br> **Azure** | <img src="https://skillicons.dev/icons?i=git" width="45"/> <br> **Git** | <img src="https://skillicons.dev/icons?i=github" width="45"/> <br> **GitHub** | <img src="https://skillicons.dev/icons?i=githubactions" width="45"/> <br> **CI/CD** |
 
 ---
 
@@ -50,17 +53,17 @@ Ingeniero de Sistemas y **Magíster en Ingeniería de Sistemas**, actualmente cu
     </td>
     <td width="50%">
       <h3>🏗️ Arquitectura de Software</h3>
-      <p>Diseño de sistemas basados en microservicios, APIs RESTful y bases de datos optimizadas para alta carga.</p>
+      <p>Diseño de sistemas distribuidos, microservicios y APIs de alta disponibilidad.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>🔐 Ciberseguridad</h3>
-      <p>Hardening de servidores, prevención de OWASP Top 10 y auditorías de seguridad en aplicaciones web.</p>
+      <p>Protección perimetral, Hardening de servidores y auditoría bajo estándares de seguridad modernos.</p>
     </td>
     <td width="50%">
-      <h3>📊 Gestión de Proyectos (MBA Mindset)</h3>
-      <p>Liderazgo técnico bajo metodologías Scrum y KPI's de negocio orientados a la rentabilidad tecnológica.</p>
+      <h3>📊 Gestión Estratégica (MBA)</h3>
+      <p>Liderazgo de equipos TI y alineación de proyectos tecnológicos con los objetivos financieros del negocio.</p>
     </td>
   </tr>
 </table>
@@ -71,18 +74,9 @@ Ingeniero de Sistemas y **Magíster en Ingeniería de Sistemas**, actualmente cu
 ## 🏆 Experiencia & Logros Destacados
 
 **Jefe de Operaciones de TI / Project Manager @ Grupo Compina S.A.C.**
-* **CRM Empresarial:** Lideré el desarrollo de un ecosistema centralizado que mejoró la retención de clientes en un 25%.
-* **Logística Inteligente:** Implementación de algoritmos para optimizar rutas y tiempos de entrega.
-* **Help Desk AI:** Reducción del tiempo de respuesta en soporte técnico mediante bots de respuesta predictiva.
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Stats de Angel" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=tokyonight&hide_border=true" alt="Streak de Angel" />
-</p>
+* **CRM Pro:** Arquitectura de un sistema centralizado de gestión comercial que incrementó la eficiencia de ventas.
+* **Smart Logistics:** Desarrollo de módulos logísticos para la optimización de flujos de trabajo y control de inventarios.
+* **Help Desk Automatizado:** Reducción drástica de tickets manuales mediante integración de bots inteligentes.
 
 ---
 
