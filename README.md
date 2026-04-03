@@ -100,8 +100,8 @@ Soy **Ingeniero de Sistemas** y **PMO** especializado en la **transformación di
 
 ## 🎓 Educación & Certificaciones
 
-* **MBA (Maestría en Administración de Negocios)** - Universidad César Vallejo (En curso).
-* **Ingeniero de Sistemas** (Título Profesional) - Universidad César Vallejo.
+* **MBA (Maestría en Administración de Negocios)** -  (En curso).
+* **Ingeniero de Sistemas** (Título Profesional y grado bachiller) 
 * **Certificaciones:** PCAP Python, CCNAv7 Networking, Business Intelligence Foundation (CertiProf).
 
 ---
@@ -109,13 +109,13 @@ Soy **Ingeniero de Sistemas** y **PMO** especializado en la **transformación di
 ## 📫 Conecta conmigo
 
 <p align="center">
-  <a href="TU_LINKEDIN">
+  <a href="www.linkedin.com/in/angel-cm">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:personal@angelcm.com">
+  <a href="mailto:info@angelcm.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="TU_PORTAFOLIO">
+  <a href="(https://angelcm.com/)">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" />
   </a>
 </p>
