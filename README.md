@@ -1,51 +1,44 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> Hola, soy Angel Castañeda
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> Hola, soy **Angel Castañeda**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1E3A8A&height=160&section=header&text=Angel%20Casta%C3%B1eda&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=850&lines=Project+Manager+%7C+Ingeniero+de+Sistemas;AI+%26+Automation+Engineer+%7C+Cybersecurity;Full+Stack+Developer+%7C+Cloud+%26+DevOps;Arquitectura+de+Software+%7C+Transformaci%C3%B3n+Digital" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=850&lines=Project+Manager+%7C+Ingeniero+de+Sistemas;AI+%26+Automation+Engineer+%7C+Cybersecurity;Full+Stack+Developer+%7C+Cloud+%26+DevOps;Arquitectura+de+Software+%7C+Transformaci%C3%B3n+Digital" />
 </p>
 
 ---
 
-# 👤 Perfil Profesional
+# 👤 **Perfil Profesional**
 
-Ingeniero de Sistemas y Project Manager especializado en **transformación digital, automatización con inteligencia artificial, arquitectura de software y gestión de infraestructura tecnológica**.
+**Ingeniero de Sistemas** y **Project Manager (PMO)** especializado en **transformación digital**, **automatización con inteligencia artificial**, **arquitectura de software** y **gestión de infraestructura tecnológica**.
 
-Me enfoco en diseñar, liderar e implementar soluciones tecnológicas que optimicen procesos, mejoren la eficiencia operativa y generen valor estratégico para las organizaciones.
+Mi enfoque profesional se basa en:
 
-### Enfoque profesional
-
-- Liderazgo de proyectos tecnológicos
-- Arquitectura de sistemas empresariales
-- Automatización de procesos con IA
-- Ciberseguridad e infraestructura
-- Desarrollo Full Stack
-- Transformación digital
-- Optimización operativa
+- **Diseñar soluciones tecnológicas escalables**
+- **Optimizar procesos mediante automatización**
+- **Garantizar seguridad y continuidad operativa**
+- **Alinear la tecnología con los objetivos del negocio**
+- **Liderar proyectos tecnológicos estratégicos**
 
 ---
 
-# 🧠 Especialidades Profesionales
+# 🧠 **Especialidades Profesionales**
 
-Project Management (PMO)  
-Arquitectura de Software  
-Inteligencia Artificial  
-Automatización de Procesos  
-Ciberseguridad  
-Infraestructura TI  
-Cloud Computing  
-DevOps  
-Business Intelligence  
-Transformación Digital  
+**Project Management (PMO)**  
+**Arquitectura de Software**  
+**Automatización con Inteligencia Artificial**  
+**Ciberseguridad**  
+**Infraestructura Tecnológica**  
+**Cloud Computing**  
+**DevOps**  
+**Business Intelligence**  
+**Transformación Digital**
 
 ---
 
-# 🛠️ Stack Tecnológico
+# 🛠️ **Stack Tecnológico**
 
 <div align="center">
 
@@ -54,7 +47,7 @@ Transformación Digital
 <tr>
 <th>Frontend & UI</th>
 <th>Backend & Data</th>
-<th>IA, DevOps & Cloud</th>
+<th>Cloud, DevOps & Automatización</th>
 </tr>
 
 <tr>
@@ -67,7 +60,7 @@ Transformación Digital
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
 </td>
 
@@ -106,137 +99,134 @@ Transformación Digital
 
 ---
 
-# 🚀 Experiencia Estratégica
+# 🚀 **Experiencia Estratégica**
 
-## Jefe de Operaciones de TI / Project Manager  
-Compina | Comunicación y Sinergia Comercial
+## **Jefe de Operaciones de TI / Project Manager**
 
-Responsabilidades:
+**Grupo Compina S.A.C.**  
+*Comunicación y Sinergia Comercial*
 
-- Arquitectura y desarrollo de sistemas empresariales
-- Implementación de CRM corporativo
-- Automatización de procesos con IA
-- Gestión de infraestructura tecnológica
-- Implementación de seguridad informática
-- Coordinación de equipos técnicos
-- Gestión de proyectos tecnológicos
-- Control de calidad (QA)
+### Responsabilidades principales
 
-Logros:
+- **Arquitectura y desarrollo de sistemas empresariales**
+- **Implementación de CRM corporativo**
+- **Automatización de procesos con inteligencia artificial**
+- **Gestión de infraestructura tecnológica**
+- **Implementación de seguridad informática**
+- **Coordinación de equipos técnicos**
+- **Gestión de proyectos tecnológicos**
+- **Control de calidad (QA)**
 
-- Implementación de CRM empresarial
-- Desarrollo de sistema logístico
-- Automatización de procesos internos
-- Implementación de Help Desk inteligente
-- Optimización de operaciones tecnológicas
+### Logros destacados
 
----
-
-## Auxiliar de TI
-
-Compina | Comunicación y Sinergia Comercial
-
-Responsabilidades:
-
-- Soporte técnico e infraestructura
-- Gestión de incidencias tecnológicas
-- Administración de bases de datos
-- Mantenimiento preventivo
-- Documentación técnica
-- Soporte a usuarios
+- Implementación de **CRM empresarial**
+- Desarrollo de **sistema logístico**
+- Automatización de **procesos internos**
+- Implementación de **Help Desk inteligente**
+- Optimización de **operaciones tecnológicas**
 
 ---
 
-# 🏗️ Arquitectura y Capacidades Técnicas
+## **Auxiliar de TI**
 
-Arquitectura de Software  
-Microservicios  
-API REST  
-Sistemas Distribuidos  
-Integraciones Empresariales  
-Automatización de Procesos  
-Infraestructura TI  
-Seguridad Informática  
-DevOps  
-Cloud Computing  
-Gestión de Servidores  
-Redes y Comunicaciones  
+**Grupo Compina S.A.C.**
+
+### Responsabilidades
+
+- **Soporte técnico e infraestructura**
+- **Gestión de incidencias tecnológicas**
+- **Administración de bases de datos**
+- **Mantenimiento preventivo**
+- **Documentación técnica**
+- **Soporte a usuarios**
 
 ---
 
-# 🧭 Metodologías de Trabajo
+# 🏗️ **Arquitectura y Capacidades Técnicas**
 
-Scrum  
-Kanban  
-Agile  
-PMI  
-ITIL  
-DevOps  
-CI/CD  
-QA Testing  
-SDLC  
-
----
-
-# 🎓 Educación & Certificaciones
-
-MBA — Maestría en Administración de Negocios  
-Ingeniero de Sistemas  
-Bachiller en Ingeniería de Sistemas  
-
-Certificaciones:
-
-Python Programming  
-Business Intelligence  
-Cybersecurity  
-Network Defense  
-Ethical Hacking  
-Data Science  
-Power BI  
-Cisco Networking  
+- **Arquitectura de Software**
+- **Microservicios**
+- **API REST**
+- **Sistemas Distribuidos**
+- **Integraciones Empresariales**
+- **Automatización de Procesos**
+- **Infraestructura TI**
+- **Seguridad Informática**
+- **DevOps**
+- **Cloud Computing**
+- **Gestión de Servidores**
+- **Redes y Comunicaciones**
 
 ---
 
-# 🌍 Idiomas
+# 🧭 **Metodologías de Trabajo**
 
-Español — Nativo  
-Inglés — Básico  
+**Scrum**  
+**Kanban**  
+**Agile**  
+**PMI**  
+**ITIL**  
+**DevOps**  
+**CI/CD**  
+**QA Testing**  
+**SDLC**
 
 ---
 
-# 📊 Métricas de Desarrollo
+# 🎓 **Educación & Certificaciones**
+
+### Educación
+
+**MBA — Maestría en Administración de Negocios**  
+**Ingeniero de Sistemas**  
+**Bachiller en Ingeniería de Sistemas**
+
+### Certificaciones
+
+- **Python Programming**
+- **Business Intelligence**
+- **Cybersecurity**
+- **Network Defense**
+- **Ethical Hacking**
+- **Data Science**
+- **Power BI**
+- **Cisco Networking**
+
+---
+
+# 📊 **Métricas de Desarrollo**
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=angel-cm-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=angel-cm-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel-cm-dev&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel-cm-dev&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
 ---
 
-# 🔥 Actividad de Contribuciones
+# 🔥 **Actividad de Contribuciones**
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=angel-cm-dev&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=angel-cm-dev&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Actividad Reciente
+# 📈 **Actividad Reciente**
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=angel-cm-dev&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=angel-cm-dev&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 📫 Contáctame
+# 📫 **Contáctame**
 
 <p align="center">
 
@@ -256,9 +246,9 @@ Inglés — Básico
 
 ---
 
-# 🧠 Filosofía Profesional
+# 🧠 **Filosofía Profesional**
 
-"La tecnología es una herramienta estratégica para transformar organizaciones."
+*"La tecnología es una herramienta estratégica para transformar organizaciones."*
 
 ---
 
