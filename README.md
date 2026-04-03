@@ -431,38 +431,6 @@ Bachiller en Ingeniería
 
 ---
 
-# 📊 MÉTRICAS DE DESARROLLO
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=angel-cm-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel-cm-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 ACTIVIDAD
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=angel-cm-dev&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 CONTRIBUCIONES
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
 # 📫 CONTACTO
 
 <p align="center">
