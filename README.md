@@ -109,13 +109,13 @@ Soy **Ingeniero de Sistemas** y **PMO** especializado en la **transformación di
 ## 📫 Conecta conmigo
 
 <p align="center">
-  <a href="www.linkedin.com/in/angel-cm">
+  <a href="https://www.linkedin.com/in/angel-cm" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:info@angelcm.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="(https://angelcm.com/)">
+  <a href="https://angelcm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" />
   </a>
 </p>
