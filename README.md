@@ -404,7 +404,6 @@ CI/CD
 
 ## 🎓  
 MBA  
-
 Maestría en Administración de Negocios
 
 </td>
