@@ -1,93 +1,124 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> Hola, soy **Angel Castañeda**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1E3A8A&height=160&section=header&text=Angel%20Casta%C3%B1eda&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1E3A8A&height=180&section=header&text=Angel%20Casta%C3%B1eda&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=850&lines=Project+Manager+%7C+Ingeniero+de+Sistemas;AI+%26+Automation+Engineer+%7C+Cybersecurity;Full+Stack+Developer+%7C+Cloud+%26+DevOps;Arquitectura+de+Software+%7C+Transformaci%C3%B3n+Digital" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Project+Manager;Software+Architect;AI+Automation+Engineer;Cybersecurity+Specialist;Cloud+%7C+DevOps+Engineer" />
+
 </p>
 
 ---
 
-# 👤 **Perfil Profesional**
+# 🧠 PERFIL PROFESIONAL
 
-**Ingeniero de Sistemas** y **Project Manager (PMO)** especializado en **transformación digital**, **automatización con inteligencia artificial**, **arquitectura de software** y **gestión de infraestructura tecnológica**.
+<p align="center">
 
-Mi enfoque profesional se basa en:
+<img src="https://img.shields.io/badge/Role-Project_Manager-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Role-Software_Architect-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Role-AI_Engineer-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Role-DevOps-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Role-Cybersecurity-blue?style=for-the-badge"/>
 
-- **Diseñar soluciones tecnológicas escalables**
-- **Optimizar procesos mediante automatización**
-- **Garantizar seguridad y continuidad operativa**
-- **Alinear la tecnología con los objetivos del negocio**
-- **Liderar proyectos tecnológicos estratégicos**
-
----
-
-# 🧠 **Especialidades Profesionales**
-
-**Project Management (PMO)**  
-**Arquitectura de Software**  
-**Automatización con Inteligencia Artificial**  
-**Ciberseguridad**  
-**Infraestructura Tecnológica**  
-**Cloud Computing**  
-**DevOps**  
-**Business Intelligence**  
-**Transformación Digital**
+</p>
 
 ---
 
-# 🛠️ **Stack Tecnológico**
+# 🚀 ESPECIALIDADES ESTRATÉGICAS
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+## 🚀  
+### Transformación Digital  
+
+Optimización de procesos empresariales mediante soluciones tecnológicas escalables.
+
+</td>
+
+<td width="25%" align="center">
+
+## 🤖  
+### Automatización con IA  
+
+Implementación de automatización inteligente y workflows digitales.
+
+</td>
+
+<td width="25%" align="center">
+
+## 🏗️  
+### Arquitectura Tecnológica  
+
+Diseño de sistemas robustos, seguros y escalables.
+
+</td>
+
+<td width="25%" align="center">
+
+## 🔐  
+### Ciberseguridad  
+
+Protección de infraestructura y datos empresariales.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🏆 INDICADORES PROFESIONALES
 
 <div align="center">
 
 <table>
 
 <tr>
-<th>Frontend & UI</th>
-<th>Backend & Data</th>
-<th>Cloud, DevOps & Automatización</th>
-</tr>
-
-<tr>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+## 🎯  
+### Liderazgo Tecnológico  
+
+Gestión estratégica de operaciones TI.
 
 </td>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+## ⚙️  
+### Automatización  
+
+Optimización de procesos operativos.
 
 </td>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
+## 📊  
+### Gestión de Proyectos  
+
+Implementación de soluciones empresariales.
+
+</td>
+
+<td align="center">
+
+## 🌐  
+### Infraestructura  
+
+Administración de sistemas tecnológicos.
 
 </td>
 
@@ -99,114 +130,320 @@ Mi enfoque profesional se basa en:
 
 ---
 
-# 🚀 **Experiencia Estratégica**
+# 🛠️ STACK TECNOLÓGICO
 
-## **Jefe de Operaciones de TI / Project Manager**
+<div align="center">
 
-**Grupo Compina S.A.C.**  
-*Comunicación y Sinergia Comercial*
+<table>
 
-### Responsabilidades principales
+<tr>
 
-- **Arquitectura y desarrollo de sistemas empresariales**
-- **Implementación de CRM corporativo**
-- **Automatización de procesos con inteligencia artificial**
-- **Gestión de infraestructura tecnológica**
-- **Implementación de seguridad informática**
-- **Coordinación de equipos técnicos**
-- **Gestión de proyectos tecnológicos**
-- **Control de calidad (QA)**
+<td align="center">
 
-### Logros destacados
+## 🎨  
+### Frontend
 
-- Implementación de **CRM empresarial**
-- Desarrollo de **sistema logístico**
-- Automatización de **procesos internos**
-- Implementación de **Help Desk inteligente**
-- Optimización de **operaciones tecnológicas**
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind"/>
+
+</td>
+
+<td align="center">
+
+## ⚙️  
+### Backend
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,dotnet,cs,cpp,java"/>
+
+</td>
+
+<td align="center">
+
+## ☁️  
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=mysql,linux,docker,aws,azure,git"/>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
 
-## **Auxiliar de TI**
+# 🚀 EXPERIENCIA ESTRATÉGICA
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center">
+
+# 🏢  
+## Jefe de Operaciones de TI  
+### Project Manager  
 
 **Grupo Compina S.A.C.**
 
-### Responsabilidades
+<img src="https://img.shields.io/badge/Liderazgo-Operaciones_TI-blue"/>
+<img src="https://img.shields.io/badge/Área-Proyectos-blue"/>
+<img src="https://img.shields.io/badge/Área-Automatización-blue"/>
+<img src="https://img.shields.io/badge/Área-Ciberseguridad-blue"/>
 
-- **Soporte técnico e infraestructura**
-- **Gestión de incidencias tecnológicas**
-- **Administración de bases de datos**
-- **Mantenimiento preventivo**
-- **Documentación técnica**
-- **Soporte a usuarios**
+</td>
 
----
+</tr>
 
-# 🏗️ **Arquitectura y Capacidades Técnicas**
+</table>
 
-- **Arquitectura de Software**
-- **Microservicios**
-- **API REST**
-- **Sistemas Distribuidos**
-- **Integraciones Empresariales**
-- **Automatización de Procesos**
-- **Infraestructura TI**
-- **Seguridad Informática**
-- **DevOps**
-- **Cloud Computing**
-- **Gestión de Servidores**
-- **Redes y Comunicaciones**
+</div>
 
 ---
 
-# 🧭 **Metodologías de Trabajo**
+# 🧩 RESPONSABILIDADES
 
-**Scrum**  
-**Kanban**  
-**Agile**  
-**PMI**  
-**ITIL**  
-**DevOps**  
-**CI/CD**  
-**QA Testing**  
-**SDLC**
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center">
+
+## 🏗️  
+Arquitectura de Sistemas  
+
+</td>
+
+<td align="center">
+
+## 🤖  
+Automatización con IA  
+
+</td>
+
+<td align="center">
+
+## 🔐  
+Seguridad Informática  
+
+</td>
+
+<td align="center">
+
+## 📊  
+Gestión de Proyectos  
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
 
-# 🎓 **Educación & Certificaciones**
+# 🏆 LOGROS DESTACADOS
 
-### Educación
+<div align="center">
 
-**MBA — Maestría en Administración de Negocios**  
-**Ingeniero de Sistemas**  
-**Bachiller en Ingeniería de Sistemas**
+<table>
 
-### Certificaciones
+<tr>
 
-- **Python Programming**
-- **Business Intelligence**
-- **Cybersecurity**
-- **Network Defense**
-- **Ethical Hacking**
-- **Data Science**
-- **Power BI**
-- **Cisco Networking**
+<td align="center">
+
+## 🧩  
+CRM Empresarial  
+
+Sistema centralizado de gestión comercial.
+
+</td>
+
+<td align="center">
+
+## 🚚  
+Sistema Logístico  
+
+Optimización de operaciones empresariales.
+
+</td>
+
+<td align="center">
+
+## 🤖  
+Automatización  
+
+Procesos internos automatizados.
+
+</td>
+
+<td align="center">
+
+## 🎧  
+Help Desk Inteligente  
+
+Soporte técnico automatizado.
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
 
-# 📊 **Métricas de Desarrollo**
+# 🏗️ ARQUITECTURA Y CAPACIDADES
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center">
+
+Microservicios  
+
+</td>
+
+<td align="center">
+
+API REST  
+
+</td>
+
+<td align="center">
+
+DevOps  
+
+</td>
+
+<td align="center">
+
+Cloud Computing  
+
+</td>
+
+<td align="center">
+
+Seguridad  
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🧭 METODOLOGÍAS
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center">
+
+Scrum  
+
+</td>
+
+<td align="center">
+
+Kanban  
+
+</td>
+
+<td align="center">
+
+PMI  
+
+</td>
+
+<td align="center">
+
+ITIL  
+
+</td>
+
+<td align="center">
+
+CI/CD  
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🎓 EDUCACIÓN
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center">
+
+## 🎓  
+MBA  
+
+Maestría en Administración de Negocios
+
+</td>
+
+<td align="center">
+
+## 💻  
+Ingeniero de Sistemas  
+
+</td>
+
+<td align="center">
+
+## 📚  
+Bachiller en Ingeniería  
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 📊 MÉTRICAS DE DESARROLLO
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=angel-cm-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=angel-cm-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel-cm-dev&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel-cm-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 **Actividad de Contribuciones**
+# 🔥 ACTIVIDAD
 
 <p align="center">
 
@@ -216,42 +453,62 @@ Mi enfoque profesional se basa en:
 
 ---
 
-# 📈 **Actividad Reciente**
+# 🐍 CONTRIBUCIONES
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=angel-cm-dev&theme=tokyo-night"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-# 📫 **Contáctame**
+# 📫 CONTACTO
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/angel-cm">
-<img src="https://img.shields.io/badge/LinkedIn-Profesional-0077B5?style=for-the-badge&logo=linkedin" />
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-Profesional-blue?style=for-the-badge"/>
 </a>
 
-<a href="mailto:info@angelcm.com">
-<img src="https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail" />
+<a href="#">
+<img src="https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge"/>
 </a>
 
-<a href="https://angelcm.com">
-<img src="https://img.shields.io/badge/Portfolio-Web-000000?style=for-the-badge&logo=about.me" />
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Web-black?style=for-the-badge"/>
 </a>
 
 </p>
 
 ---
 
-# 🧠 **Filosofía Profesional**
+# 🧠 FILOSOFÍA PROFESIONAL
 
-*"La tecnología es una herramienta estratégica para transformar organizaciones."*
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center">
+
+## 💡  
+
+"La tecnología es una herramienta estratégica para transformar organizaciones."
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
 
 <p align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0E75B6&height=120&section=footer"/>
+
 </p>
