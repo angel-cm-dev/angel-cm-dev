@@ -1,498 +1,149 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> Hola, soy **Angel Castañeda**
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="38" alt="Laptop" /> ¡Hola! Soy **Angel Castañeda**
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1E3A8A&height=200&section=header&text=Angel%20Casta%C3%B1eda&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0E75B6&height=220&section=header&text=Angel%20Casta%C3%B1eda&fontSize=52&fontColor=ffffff&animation=blinking&fontAlignY=38" alt="Header" />
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Technology+Leader;Software+Architect;AI+Automation+Engineer;Cybersecurity+Strategist;Cloud+%7C+DevOps+Engineer;Digital+Transformation+Specialist" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&color=0E75B6&center=true&vCenter=true&width=850&lines=Technology+Leader;Software+Architect;AI+Automation+Engineer;Cybersecurity+Strategist;Cloud+%7C+DevOps+Expert;Impulsor+de+Transformaci%C3%B3n+Digital" alt="Typing SVG" />
 </p>
 
 ---
 
-# 🧠 PERFIL EJECUTIVO TECNOLÓGICO
+## 🧠 **PERFIL EJECUTIVO**
 
-Profesional en **ingeniería y liderazgo tecnológico**, especializado en:
+**Líder tecnológico** con más de [X años] de experiencia fusionando **tecnología de vanguardia**, **estrategia de negocio** y **operaciones eficientes**. 
 
-- Transformación digital  
-- Automatización inteligente  
-- Arquitectura de software empresarial  
-- Gestión estratégica de operaciones TI  
-- Seguridad informática  
+Especialista en **transformación digital**, **automatización inteligente con IA**, **arquitectura empresarial escalable** y **ciberseguridad estratégica**. 
 
-Mi enfoque combina **tecnología, negocio y operaciones** para generar eficiencia, control y crecimiento organizacional.
+Convierto desafíos complejos en soluciones robustas que generan **eficiencia, innovación y crecimiento sostenible** para las organizaciones.
 
 ---
 
-# 🎯 ROLES PROFESIONALES
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Role-Technology_Leader-0E75B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Role-Software_Architect-0E75B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Role-AI_Engineer-0E75B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Role-Project_Manager-0E75B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Role-DevOps_Engineer-0E75B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Role-Cybersecurity_Specialist-0E75B6?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🚀 ÁREAS DE ESPECIALIZACIÓN
+## 🎯 **EXPERTISE PRINCIPAL**
 
 <div align="center">
 
-<table>
-
-<tr>
-
-<td width="25%" align="center">
-
-## 🚀  
-### Transformación Digital  
-
-Modernización de procesos empresariales mediante soluciones tecnológicas escalables.
-
-</td>
-
-<td width="25%" align="center">
-
-## 🤖  
-### Automatización con IA  
-
-Implementación de workflows inteligentes y automatización operativa.
-
-</td>
-
-<td width="25%" align="center">
-
-## 🏗️  
-### Arquitectura de Software  
-
-Diseño de plataformas robustas, seguras y altamente disponibles.
-
-</td>
-
-<td width="25%" align="center">
-
-## 🔐  
-### Ciberseguridad  
-
-Protección de infraestructura, datos y continuidad operativa.
-
-</td>
-
-</tr>
-
-</table>
+| 🚀 **Transformación Digital** | 🤖 **Automatización con IA** | 🏗️ **Arquitectura de Software** | 🔐 **Ciberseguridad** |
+|-------------------------------|-----------------------------|--------------------------------|-----------------------|
+| Modernización de procesos y sistemas legacy | Workflows inteligentes y RPA | Plataformas escalables, seguras y de alta disponibilidad | Protección integral de datos e infraestructura |
 
 </div>
 
 ---
 
-# 🏆 IMPACTO PROFESIONAL
+## 🏆 **ROLES CLAVE**
 
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center">
-
-## 📈  
-Optimización Operativa  
-
-</td>
-
-<td align="center">
-
-## ⚙️  
-Eficiencia Tecnológica  
-
-</td>
-
-<td align="center">
-
-## 📊  
-Gestión Estratégica  
-
-</td>
-
-<td align="center">
-
-## 🌐  
-Infraestructura Empresarial  
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Technology_Leader-0E75B6?style=for-the-badge&logo=leadership&logoColor=white" alt="Technology Leader"/>
+  <img src="https://img.shields.io/badge/Software_Architect-0E75B6?style=for-the-badge&logo=architecture&logoColor=white" alt="Software Architect"/>
+  <img src="https://img.shields.io/badge/AI_Engineer-0E75B6?style=for-the-badge&logo=ai&logoColor=white" alt="AI Engineer"/>
+  <img src="https://img.shields.io/badge/DevOps_Engineer-0E75B6?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps"/>
+  <img src="https://img.shields.io/badge/Cybersecurity_Strategist-0E75B6?style=for-the-badge&logo=security&logoColor=white" alt="Cybersecurity"/>
+</p>
 
 ---
 
-# 🛠️ STACK TECNOLÓGICO
+## 🛠️ **STACK TECNOLÓGICO**
 
-<div align="center">
+### **Frontend**
+![HTML](https://skillicons.dev/icons?i=html) 
+![CSS](https://skillicons.dev/icons?i=css) 
+![JavaScript](https://skillicons.dev/icons?i=js) 
+![TypeScript](https://skillicons.dev/icons?i=ts) 
+![React](https://skillicons.dev/icons?i=react) 
+![Next.js](https://skillicons.dev/icons?i=nextjs) 
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
-<table>
+### **Backend**
+![PHP](https://skillicons.dev/icons?i=php) 
+![Laravel](https://skillicons.dev/icons?i=laravel) 
+![Node.js](https://skillicons.dev/icons?i=nodejs) 
+![Python](https://skillicons.dev/icons?i=python) 
+![.NET](https://skillicons.dev/icons?i=dotnet) 
+![C#](https://skillicons.dev/icons?i=csharp) 
+![Java](https://skillicons.dev/icons?i=java)
 
-<tr>
-
-<td align="center">
-
-## 🎨  
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind"/>
-
-</td>
-
-<td align="center">
-
-## ⚙️  
-### Backend
-
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,dotnet,cs,cpp,java"/>
-
-</td>
-
-<td align="center">
-
-## ☁️  
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=mysql,linux,docker,aws,azure,git,nginx"/>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
+### **Cloud & DevOps + Herramientas**
+![AWS](https://skillicons.dev/icons?i=aws) 
+![Azure](https://skillicons.dev/icons?i=azure) 
+![Docker](https://skillicons.dev/icons?i=docker) 
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes) 
+![Git](https://skillicons.dev/icons?i=git) 
+![Linux](https://skillicons.dev/icons?i=linux) 
+![MySQL](https://skillicons.dev/icons?i=mysql) 
+![Nginx](https://skillicons.dev/icons?i=nginx)
 
 ---
 
-# 🏢 EXPERIENCIA PROFESIONAL
+## 🏢 **EXPERIENCIA PROFESIONAL**
 
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center">
-
-# 🏢  
-## Jefe de Operaciones de TI  
-### Project Manager  
-
+### **Jefe de Operaciones de TI & Project Manager**  
 **Grupo Compina S.A.C.**
 
-<br>
-
-<img src="https://img.shields.io/badge/Responsabilidad-Gestión_TI-blue"/>
-<img src="https://img.shields.io/badge/Responsabilidad-Automatización-blue"/>
-<img src="https://img.shields.io/badge/Responsabilidad-Arquitectura-blue"/>
-<img src="https://img.shields.io/badge/Responsabilidad-Ciberseguridad-blue"/>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
+- Liderazgo estratégico de la infraestructura tecnológica y operaciones TI  
+- Diseño e implementación de **arquitectura empresarial** y **sistemas de alta disponibilidad**  
+- Automatización operativa con **Inteligencia Artificial**  
+- Fortalecimiento de la **postura de ciberseguridad**  
+- Gestión de proyectos bajo metodologías ágiles y PMI
 
 ---
 
-# 🧩 RESPONSABILIDADES CLAVE
+## 🌟 **PROYECTOS Y LOGROS DESTACADOS**
 
 <div align="center">
 
-<table>
-
-<tr>
-
-<td align="center">
-
-Arquitectura de Sistemas  
-
-</td>
-
-<td align="center">
-
-Automatización con IA  
-
-</td>
-
-<td align="center">
-
-Seguridad Informática  
-
-</td>
-
-<td align="center">
-
-Gestión de Proyectos  
-
-</td>
-
-<td align="center">
-
-Transformación Digital  
-
-</td>
-
-</tr>
-
-</table>
+| 🧩 **CRM Empresarial** | 🚚 **Sistema Logístico Integral** | 🤖 **Automatización Operativa con IA** | 🎧 **Help Desk Inteligente** |
+|-----------------------|----------------------------------|---------------------------------------|-----------------------------|
+| Plataforma centralizada que optimizó la gestión de clientes y ventas | Solución end-to-end para control de flota, inventario y rutas | Reducción significativa de tiempos operativos mediante workflows inteligentes | Sistema de soporte automatizado con IA que mejoró la satisfacción del cliente |
 
 </div>
 
----
-
-# 🏆 PROYECTOS Y LOGROS DESTACADOS
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center">
-
-## 🧩  
-CRM Empresarial  
-
-</td>
-
-<td align="center">
-
-## 🚚  
-Sistema Logístico  
-
-</td>
-
-<td align="center">
-
-## 🤖  
-Automatización Operativa  
-
-</td>
-
-<td align="center">
-
-## 🎧  
-Help Desk Inteligente  
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
+**Otros impactos clave:**
+- Optimización operativa y reducción de costos mediante DevOps y Cloud
+- Implementación de **microservicios** y **API REST** seguras
+- Migraciones exitosas a entornos cloud (AWS/Azure)
 
 ---
 
-# 🏗️ CAPACIDADES DE ARQUITECTURA
+## 🧭 **METODOLOGÍAS Y PRÁCTICAS**
 
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center">
-
-Microservicios  
-
-</td>
-
-<td align="center">
-
-API REST  
-
-</td>
-
-<td align="center">
-
-Arquitectura Empresarial  
-
-</td>
-
-<td align="center">
-
-Cloud Computing  
-
-</td>
-
-<td align="center">
-
-Alta Disponibilidad  
-
-</td>
-
-<td align="center">
-
-Seguridad  
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
+**Scrum • Kanban • PMI • ITIL • DevOps • CI/CD • Agile**
 
 ---
 
-# 🧭 METODOLOGÍAS
+## 🎓 **FORMACIÓN ACADÉMICA**
 
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center">
-
-Scrum  
-
-</td>
-
-<td align="center">
-
-Kanban  
-
-</td>
-
-<td align="center">
-
-PMI  
-
-</td>
-
-<td align="center">
-
-ITIL  
-
-</td>
-
-<td align="center">
-
-DevOps  
-
-</td>
-
-<td align="center">
-
-CI/CD  
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
+- **MBA** — Maestría en Administración de Negocios  
+- **Ingeniero de Sistemas**  
+- **Bachiller en Ingeniería**
 
 ---
 
-# 🎓 EDUCACIÓN
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center">
-
-## 🎓  
-MBA  
-Maestría en Administración de Negocios
-
-</td>
-
-<td align="center">
-
-## 💻  
-Ingeniero de Sistemas  
-
-</td>
-
-<td align="center">
-
-## 📚  
-Bachiller en Ingeniería  
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-# 📫 CONTACTO PROFESIONAL
+## 📫 **CONECTEMOS**
 
 <p align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-Profesional-0E75B6?style=for-the-badge"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Web-black?style=for-the-badge"/>
-</a>
-
+  <a href="https://linkedin.com/in/tu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0E75B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:tuemail@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://tuportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
 
-# 🧠 FILOSOFÍA PROFESIONAL
+## 💡 **FILOSOFÍA**
 
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center">
-
-## 💡  
-
-"La tecnología es una herramienta estratégica para transformar organizaciones."
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
+> **"La tecnología no es solo una herramienta: es el catalizador estratégico que transforma organizaciones y genera ventaja competitiva sostenible."**
 
 ---
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0E75B6&height=130&section=footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0E75B6&height=120&section=footer&text=Gracias%20por%20visitar&fontSize=18&fontColor=ffffff" alt="Footer" />
 </p>
+
+---
