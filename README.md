@@ -19,32 +19,50 @@
 
 ## 👨‍💻 Perfil Profesional
 
-[cite_start]**Ingeniero de Sistemas** [cite: 5, 30] [cite_start]y **PMO** especializado en **transformación digital** y **automatización de procesos mediante IA**[cite: 7]. [cite_start]Actualmente cursando un **MBA** [cite: 29] para fusionar la arquitectura de software con la rentabilidad estratégica corporativa. [cite_start]Experto en el diseño de ecosistemas CRM escalables y gestión de infraestructura crítica[cite: 8].
+**Ingeniero de Sistemas** y **PMO** especializado en **transformación digital** y **automatización de procesos mediante IA**. Actualmente curso un **MBA** para fusionar la arquitectura técnica con la visión estratégica de negocios. Mi enfoque se centra en diseñar sistemas escalables que maximicen la rentabilidad y eficiencia operativa corporativa.
 
-* [cite_start]🌍 **Ubicación:** Lima, Perú[cite: 6].
-* 🚀 **Enfoque:** Escalabilidad de sistemas, Performance y Seguridad (Hardening).
-* 🛡️ **Mentalidad:** Clean Code, Principios SOLID y Resiliencia Tecnológica.
+* 🌍 **Ubicación:** Lima, Perú.
+* 🚀 **Foco:** Escalabilidad, Performance y Ciberseguridad.
+* 🛡️ **Filosofía:** Clean Code, Principios SOLID y Resiliencia Tecnológica.
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
 ### 🎨 Frontend & Mobile Development
-| | | | | |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=html" width="40"/> <br> HTML5 | <img src="https://skillicons.dev/icons?i=css" width="40"/> <br> CSS3 | <img src="https://skillicons.dev/icons?i=js" width="40"/> <br> JavaScript | <img src="https://skillicons.dev/icons?i=ts" width="40"/> <br> TypeScript | <img src="https://skillicons.dev/icons?i=react" width="40"/> <br> React |
-| <img src="https://skillicons.dev/icons?i=nextjs" width="40"/> <br> Next.js | <img src="https://skillicons.dev/icons?i=tailwind" width="40"/> <br> Tailwind | <img src="https://skillicons.dev/icons?i=sass" width="40"/> <br> SASS | <img src="https://skillicons.dev/icons?i=flutter" width="40"/> <br> Flutter | <img src="https://skillicons.dev/icons?i=dart" width="40"/> <br> Dart |
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
 
 ### ⚙️ Backend & Logic
-| | | | | |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=php" width="40"/> <br> PHP | <img src="https://skillicons.dev/icons?i=laravel" width="40"/> <br> Laravel | <img src="https://skillicons.dev/icons?i=nodejs" width="40"/> <br> Node.js | <img src="https://skillicons.dev/icons?i=python" width="40"/> <br> Python | <img src="https://skillicons.dev/icons?i=dotnet" width="40"/> <br> .NET |
-| <img src="https://skillicons.dev/icons?i=cs" width="40"/> <br> C# | <img src="https://skillicons.dev/icons?i=java" width="40"/> <br> Java | <img src="https://skillicons.dev/icons?i=mysql" width="40"/> <br> MySQL | <img src="https://skillicons.dev/icons?i=mongodb" width="40"/> <br> MongoDB | <img src="https://skillicons.dev/icons?i=postman" width="40"/> <br> Postman |
+<p align="left">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
 
-### ☁️ Infrastructure & DevOps
-| | | | | |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=linux" width="40"/> <br> Linux | <img src="https://skillicons.dev/icons?i=docker" width="40"/> <br> Docker | <img src="https://skillicons.dev/icons?i=aws" width="40"/> <br> AWS | <img src="https://skillicons.dev/icons?i=azure" width="40"/> <br> Azure | <img src="https://skillicons.dev/icons?i=git" width="40"/> <br> Git |
+### ☁️ Infrastructure & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/mysql-%23005C84.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
@@ -55,12 +73,12 @@
     <td width="50%" align="center">
       <img src="https://img.icons8.com/fluency/64/artificial-intelligence.png" width="50" />
       <h3>Automatización e IA</h3>
-      [cite_start]<p>Conceptualización de soluciones IA (Chatbots/HelpDesk) y flujos de trabajo con <b>n8n</b> y <b>Mautic</b> para optimizar el OPEX corporativo[cite: 18, 37].</p>
+      <p>Diseño de soluciones inteligentes y flujos automatizados con <b>n8n</b> y <b>Power Automate</b> para optimizar el OPEX operativo.</p>
     </td>
     <td width="50%" align="center">
       <img src="https://img.icons8.com/fluency/64/security-checked.png" width="50" />
-      <h3>Seguridad e Infraestructura</h3>
-      <p>Hardening de servidores, protocolos de ciberseguridad y <b>Network Defense (CCNAv7)</b> para garantizar la integridad de los datos[cite: 17, 38].</p>
+      <h3>Ciberseguridad</h3>
+      <p>Hardening de servidores, protocolos de defensa de red (CCNA) y auditorías para garantizar la resiliencia tecnológica.</p>
     </td>
   </tr>
 </table>
@@ -69,23 +87,23 @@
 
 ## 🏆 Hitos de Gestión & Experiencia
 
-**Jefe de Operaciones de TI / Project Manager** | [cite_start]**Grupo Compina S.A.C.** *(Ene 2025 - Oct 2025)* [cite: 10, 11, 14]
-* [cite_start]**Arquitectura de Solución:** Dirigí el ciclo de vida completo del **CRM V2** y un **Sistema de Optimización Logística**, alineando la tecnología con los objetivos comerciales[cite: 15].
-* [cite_start]**Liderazgo Técnico:** Lideré equipos multidisciplinarios bajo metodologías ágiles, supervisando la revisión de código y QA[cite: 16].
-* [cite_start]**Infraestructura:** Gestión de servidores y despliegue de 32 landing pages corporativas garantizando alta disponibilidad[cite: 19].
-* [cite_start]**Automatización:** Implementación de flujos con n8n y Power Automate para optimizar la eficiencia operativa interna[cite: 18].
+**Jefe de Operaciones de TI / Project Manager** | **Grupo Compina S.A.C.** *(Ene 2025 - Oct 2025)*
+* **Arquitectura de Solución:** Dirigí el ciclo completo del **CRM V2** y un **Sistema de Optimización Logística**, alineando la tecnología con los objetivos comerciales.
+* **Liderazgo Técnico:** Lideré equipos multidisciplinarios bajo metodologías ágiles, supervisando la revisión de código y estándares de QA.
+* **Seguridad & Automatización:** Diseñé protocolos de ciberseguridad y ejecuté la automatización de procesos mediante IA y Help Desk inteligente.
+* **Infraestructura:** Supervisé servidores y el despliegue de 32 landing pages corporativas con alta disponibilidad.
 
-**Asistente de TI / Auxiliar de TI (Prácticas)** | [cite_start]**Grupo Compina S.A.C.** *(Abr 2024 - Dic 2024)* [cite: 20, 21]
-* [cite_start]**Prototipado IA:** Co-desarrollo del **CRM V1** y un prototipo de HelpDesk basado en IA, reduciendo la carga operativa del área[cite: 22, 23].
-* [cite_start]**Gestión de Datos:** Optimización de consultas complejas y ejecución de planes de respaldo para asegurar la integridad estratégica de la información[cite: 24].
-* [cite_start]**Soporte & Documentación:** Resolución de incidencias críticas y elaboración de manuales técnicos para estandarizar procesos de soporte[cite: 25, 26].
+**Asistente de TI / Auxiliar de TI (Prácticas)** | **Grupo Compina S.A.C.** *(Abr 2024 - Dic 2024)*
+* **Prototipado IA:** Co-desarrollo del **CRM V1** y un prototipo de HelpDesk basado en IA para reducir la carga operativa inicial.
+* **Gestión de Datos:** Optimización de consultas complejas en MySQL y ejecución de planes de respaldo estratégicos.
+* **Soporte & Documentación:** Resolución de incidencias críticas y elaboración de manuales técnicos para estandarizar el soporte.
 
 ---
 
 ## 📫 Conecta conmigo
 
 <p align="center">
-  <a href="TU_LINKEDIN">
+  <a href="TU_LINK_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:personal@angelcm.com">
