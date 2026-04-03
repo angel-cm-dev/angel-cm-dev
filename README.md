@@ -2,37 +2,53 @@
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1E3A8A&height=180&section=header&text=Angel%20Casta%C3%B1eda&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1E3A8A&height=200&section=header&text=Angel%20Casta%C3%B1eda&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Project+Manager;Software+Architect;AI+Automation+Engineer;Cybersecurity+Specialist;Cloud+%7C+DevOps+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Technology+Leader;Software+Architect;AI+Automation+Engineer;Cybersecurity+Strategist;Cloud+%7C+DevOps+Engineer;Digital+Transformation+Specialist" />
 
 </p>
 
 ---
 
-# 🧠 PERFIL PROFESIONAL
+# 🧠 PERFIL EJECUTIVO TECNOLÓGICO
+
+Profesional en **ingeniería y liderazgo tecnológico**, especializado en:
+
+- Transformación digital  
+- Automatización inteligente  
+- Arquitectura de software empresarial  
+- Gestión estratégica de operaciones TI  
+- Seguridad informática  
+
+Mi enfoque combina **tecnología, negocio y operaciones** para generar eficiencia, control y crecimiento organizacional.
+
+---
+
+# 🎯 ROLES PROFESIONALES
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Role-Project_Manager-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Role-Software_Architect-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Role-AI_Engineer-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Role-DevOps-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Role-Cybersecurity-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Role-Technology_Leader-0E75B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Role-Software_Architect-0E75B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Role-AI_Engineer-0E75B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Role-Project_Manager-0E75B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Role-DevOps_Engineer-0E75B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Role-Cybersecurity_Specialist-0E75B6?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 🚀 ESPECIALIDADES ESTRATÉGICAS
+# 🚀 ÁREAS DE ESPECIALIZACIÓN
 
 <div align="center">
 
 <table>
+
 <tr>
 
 <td width="25%" align="center">
@@ -40,7 +56,7 @@
 ## 🚀  
 ### Transformación Digital  
 
-Optimización de procesos empresariales mediante soluciones tecnológicas escalables.
+Modernización de procesos empresariales mediante soluciones tecnológicas escalables.
 
 </td>
 
@@ -49,16 +65,16 @@ Optimización de procesos empresariales mediante soluciones tecnológicas escala
 ## 🤖  
 ### Automatización con IA  
 
-Implementación de automatización inteligente y workflows digitales.
+Implementación de workflows inteligentes y automatización operativa.
 
 </td>
 
 <td width="25%" align="center">
 
 ## 🏗️  
-### Arquitectura Tecnológica  
+### Arquitectura de Software  
 
-Diseño de sistemas robustos, seguros y escalables.
+Diseño de plataformas robustas, seguras y altamente disponibles.
 
 </td>
 
@@ -67,18 +83,19 @@ Diseño de sistemas robustos, seguros y escalables.
 ## 🔐  
 ### Ciberseguridad  
 
-Protección de infraestructura y datos empresariales.
+Protección de infraestructura, datos y continuidad operativa.
 
 </td>
 
 </tr>
+
 </table>
 
 </div>
 
 ---
 
-# 🏆 INDICADORES PROFESIONALES
+# 🏆 IMPACTO PROFESIONAL
 
 <div align="center">
 
@@ -88,37 +105,29 @@ Protección de infraestructura y datos empresariales.
 
 <td align="center">
 
-## 🎯  
-### Liderazgo Tecnológico  
-
-Gestión estratégica de operaciones TI.
+## 📈  
+Optimización Operativa  
 
 </td>
 
 <td align="center">
 
 ## ⚙️  
-### Automatización  
-
-Optimización de procesos operativos.
+Eficiencia Tecnológica  
 
 </td>
 
 <td align="center">
 
 ## 📊  
-### Gestión de Proyectos  
-
-Implementación de soluciones empresariales.
+Gestión Estratégica  
 
 </td>
 
 <td align="center">
 
 ## 🌐  
-### Infraestructura  
-
-Administración de sistemas tecnológicos.
+Infraestructura Empresarial  
 
 </td>
 
@@ -161,7 +170,7 @@ Administración de sistemas tecnológicos.
 ## ☁️  
 ### Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=mysql,linux,docker,aws,azure,git"/>
+<img src="https://skillicons.dev/icons?i=mysql,linux,docker,aws,azure,git,nginx"/>
 
 </td>
 
@@ -173,7 +182,7 @@ Administración de sistemas tecnológicos.
 
 ---
 
-# 🚀 EXPERIENCIA ESTRATÉGICA
+# 🏢 EXPERIENCIA PROFESIONAL
 
 <div align="center">
 
@@ -189,10 +198,12 @@ Administración de sistemas tecnológicos.
 
 **Grupo Compina S.A.C.**
 
-<img src="https://img.shields.io/badge/Liderazgo-Operaciones_TI-blue"/>
-<img src="https://img.shields.io/badge/Área-Proyectos-blue"/>
-<img src="https://img.shields.io/badge/Área-Automatización-blue"/>
-<img src="https://img.shields.io/badge/Área-Ciberseguridad-blue"/>
+<br>
+
+<img src="https://img.shields.io/badge/Responsabilidad-Gestión_TI-blue"/>
+<img src="https://img.shields.io/badge/Responsabilidad-Automatización-blue"/>
+<img src="https://img.shields.io/badge/Responsabilidad-Arquitectura-blue"/>
+<img src="https://img.shields.io/badge/Responsabilidad-Ciberseguridad-blue"/>
 
 </td>
 
@@ -204,7 +215,7 @@ Administración de sistemas tecnológicos.
 
 ---
 
-# 🧩 RESPONSABILIDADES
+# 🧩 RESPONSABILIDADES CLAVE
 
 <div align="center">
 
@@ -214,29 +225,31 @@ Administración de sistemas tecnológicos.
 
 <td align="center">
 
-## 🏗️  
 Arquitectura de Sistemas  
 
 </td>
 
 <td align="center">
 
-## 🤖  
 Automatización con IA  
 
 </td>
 
 <td align="center">
 
-## 🔐  
 Seguridad Informática  
 
 </td>
 
 <td align="center">
 
-## 📊  
 Gestión de Proyectos  
+
+</td>
+
+<td align="center">
+
+Transformación Digital  
 
 </td>
 
@@ -248,7 +261,7 @@ Gestión de Proyectos
 
 ---
 
-# 🏆 LOGROS DESTACADOS
+# 🏆 PROYECTOS Y LOGROS DESTACADOS
 
 <div align="center">
 
@@ -261,8 +274,6 @@ Gestión de Proyectos
 ## 🧩  
 CRM Empresarial  
 
-Sistema centralizado de gestión comercial.
-
 </td>
 
 <td align="center">
@@ -270,16 +281,12 @@ Sistema centralizado de gestión comercial.
 ## 🚚  
 Sistema Logístico  
 
-Optimización de operaciones empresariales.
-
 </td>
 
 <td align="center">
 
 ## 🤖  
-Automatización  
-
-Procesos internos automatizados.
+Automatización Operativa  
 
 </td>
 
@@ -287,8 +294,6 @@ Procesos internos automatizados.
 
 ## 🎧  
 Help Desk Inteligente  
-
-Soporte técnico automatizado.
 
 </td>
 
@@ -300,7 +305,7 @@ Soporte técnico automatizado.
 
 ---
 
-# 🏗️ ARQUITECTURA Y CAPACIDADES
+# 🏗️ CAPACIDADES DE ARQUITECTURA
 
 <div align="center">
 
@@ -322,13 +327,19 @@ API REST
 
 <td align="center">
 
-DevOps  
+Arquitectura Empresarial  
 
 </td>
 
 <td align="center">
 
 Cloud Computing  
+
+</td>
+
+<td align="center">
+
+Alta Disponibilidad  
 
 </td>
 
@@ -375,6 +386,12 @@ PMI
 <td align="center">
 
 ITIL  
+
+</td>
+
+<td align="center">
+
+DevOps  
 
 </td>
 
@@ -430,12 +447,12 @@ Bachiller en Ingeniería
 
 ---
 
-# 📫 CONTACTO
+# 📫 CONTACTO PROFESIONAL
 
 <p align="center">
 
 <a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-Profesional-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-Profesional-0E75B6?style=for-the-badge"/>
 </a>
 
 <a href="#">
@@ -476,6 +493,6 @@ Bachiller en Ingeniería
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0E75B6&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0E75B6&height=130&section=footer"/>
 
 </p>
